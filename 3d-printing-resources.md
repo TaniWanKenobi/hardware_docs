@@ -17,12 +17,14 @@ Best practices for designing parts that print well.
 ![CAD Design Tips by Billie Ruben](https://cdn-blog.adafruit.com/uploads/2020/01/3RtvDRx-scaled.jpg)
 
 **Ultimate Guide: How to Design for 3D Printing** — Wikifactory
+
 [wikifactory.com/+wikifactory/stories/ultimate-guide-how-to-design-for-3d-printing](https://wikifactory.com/+wikifactory/stories/ultimate-guide-how-to-design-for-3d-printing)
 
 ---
 
 ## Print-in-Place Mechanisms
 **Learn 15 Print-in-Place Mechanisms in 15 Minutes** — Hackaday
+
 [hackaday.com/2025/05/11/learn-15-print-in-place-mechanisms-in-15-minutes](https://hackaday.com/2025/05/11/learn-15-print-in-place-mechanisms-in-15-minutes/)
 
 ---
